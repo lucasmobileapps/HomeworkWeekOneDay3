@@ -37,4 +37,4 @@ Coding
 
   For reversing the string, I used the function reversed. 
   
-![Alt text](/prob1.png?raw=true "Optional Title")
+<img src="prob1.png" height="400" alt="Screenshot"/> 
