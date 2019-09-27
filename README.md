@@ -23,14 +23,18 @@ Research
 
 5. Explain each of the following view dimension measurement types :
 
-px(Pixels)      - Actual pixels on screen
-pt(Points)      - 1/72 of an inch
-in(Inches)      - Physical size of screen in inches
-mm(Millimeters) - Physical size of screen in mm
-dp(Density-independent Pixels)  - Abstract unit based on density of screen (1dp = 1px on a 160 dpi screen)
-sp(Scale-independent Pixels)    - like dp but scaled also with user's font size preference
+  px(Pixels)      - Actual pixels on screen
+  pt(Points)      - 1/72 of an inch
+  in(Inches)      - Physical size of screen in inches
+  mm(Millimeters) - Physical size of screen in mm
+  dp(Density-independent Pixels)  - Abstract unit based on density of screen (1dp = 1px on a 160 dpi screen)
+  sp(Scale-independent Pixels)    - like dp but scaled also with user's font size preference
 
 
 Coding
 
+1. Write an application that will take a user input, reverse the string entered, and display it to a textview.  Play with different attributes for the views.
 
+  For reversing the string, I used the function reversed. 
+  
+![Alt text](/prob1.png?raw=true "Optional Title")
